@@ -1,0 +1,153 @@
+/*Author Info
+Name:OmerHowlader
+Mail add:omerhowlader@gmail.com
+*/
+
+/*
+=====index====
+1.Head
+2.Tamplate
+3.PSD
+4.Features
+5.Lorem
+==========
+*/
+
+
+/*global css*/
+
+h1{
+
+}
+
+
+h2{
+
+}
+
+p{
+
+}
+
+.img-center{
+	display: block;
+	margin: 0 auto;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+/*header*/
+
+.nav-head{
+	background-color: #0a2345!important;
+	padding: 10px 0px;
+}
+
+.nav-link{
+	color: #fff;
+}
+
+/*Head start*/
+span{
+	color: #23518f;
+}
+
+.head{
+	text-align: center;
+	background-color: #0a2345;
+}
+
+h2{
+	color: #fff;
+}
+
+p{
+	color: #23518f;
+}
+
+.btn{
+	margin-top: 25px;
+	padding: 10px 40px 10px 30px;
+	border-radius: 35%;
+	background-color: transparent;
+	color: #fff;
+	border-color: #23518f;
+}
+/*head end*/
+
+/*tamplate start*/
+
+.tamplate{
+	background-color: #0a2345;
+}
+
+/*tamplate end*/
+
+
+/*psd start*/
+.psd{
+	background-color:#0a2345; 
+}
+
+.btn-one{
+	background-color: transparent;
+	border-radius: 20px;
+	padding: 6px 25px;
+	color: #fff;
+	border: 1px solid #23518f; 
+}
+/*psd end*/
+
+/*features start*/
+.features{
+	background-color: #0a2345;
+	text-align: center;
+}
+
+.features h2{
+	margin-bottom: 20px;
+}
+/*features end*/
+
+/*Lorem start*/
+.lorem{
+	background-color: #0a2345;
+}
+/*Lorem end*/
+
+/*footer start*/
+.footer{
+	text-align: center;
+	background-color: #071529;
+}
+/*footer end*/
+
+/*footer1 start*/
+.footer-one{
+	text-align: center;
+	background-color: #030810;
+}
+
+.btn-two{
+	background-color: transparent;
+	border-radius: 20px;
+	padding: 10px 25px;
+	color: #fff;
+	border: 1px solid #23518f; 
+}
+.three h2{
+	margin-bottom: 50px;
+}
+
+.three p{
+	margin-bottom: 10px;
+}
+/*footer1 end*/
+
+/*last*/
+.last{
+	background-color: #030810;
+}
+/*last end*/
